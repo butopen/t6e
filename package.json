@@ -1,0 +1,11 @@
+{
+  "name": "t6e",
+  "version": "1.0.1",
+  "bin": "index.js",
+  "description": "Run npx t6e to discover how to create your templates",
+  "dependencies": {
+  },
+  "scripts": {
+    "publish": "npm publish"
+  }
+}
