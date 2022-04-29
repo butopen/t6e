@@ -1,4 +1,4 @@
-# T6e: scaffold any local template to a custom file
+# T6e: scaffold any local template into a custom file
 
 T6e is a small tool (no dependencies, 50 lines of code) to scaffold any local template and 
 speed up the creation of files in a project using your custom templates or templates from the community. 
